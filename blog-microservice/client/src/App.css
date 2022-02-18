@@ -1,0 +1,25 @@
+.App {
+  background-color: #242121;
+  min-height: 100vh;
+}
+
+.header__primary {
+  display: block;
+  color: #1fc9f3;
+  font-size: 4rem;
+  font-weight: 200;
+  letter-spacing: 5px;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.header__primary hr {
+  margin-top: 1rem;
+  display: block;
+}
+
+.post-list-header {
+  text-align: center !important;
+  color: #1fc9f3;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

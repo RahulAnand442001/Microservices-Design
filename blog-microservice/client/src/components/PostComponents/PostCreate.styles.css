@@ -1,0 +1,46 @@
+.post-container {
+  text-align: center;
+}
+.form-group {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.post-heading {
+  color: white;
+  display: block;
+  margin: 0.5rem 1rem;
+  font-size: 2.25rem;
+  font-weight: lighter;
+}
+
+.form-control {
+  display: block;
+  margin: 0.5rem 1rem;
+  padding: 0.5rem 1.5rem;
+  border: 1.5px solid black;
+  font-size: 1.25rem;
+  width: 70%;
+}
+
+.form-control:focus {
+  border: none;
+  outline: 1px solid blck;
+}
+
+.form-cta {
+  display: block;
+  margin: 0.5rem;
+  padding: 0.5rem 1.5rem;
+  outline: none;
+  border: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+  background: #1fc9f3;
+}
+
+.form-cta:hover {
+  transform: scale(1.05);
+}
