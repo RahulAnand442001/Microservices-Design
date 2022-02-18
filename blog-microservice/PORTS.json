@@ -1,0 +1,14 @@
+{
+    "frontend-microservices": {
+        "CLIENT": 3000
+    },
+    "data-perstitive-microservices": {
+        "POSTS": 4000,
+        "COMMENTS": 4001,
+        "QUERY": 4002,
+        "EVENT BUS": 8000
+    },
+    "middleware-microservices": {
+        "MODERATION": 8080
+    }
+}
